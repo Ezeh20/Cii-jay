@@ -1,2 +1,2 @@
-#replit repository = https://replit.com/@ciijay/Ezeh#index.html
+#replit repository  https://replit.com/@ciijay/Ezeh#index.html
 
