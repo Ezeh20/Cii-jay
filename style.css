@@ -573,7 +573,7 @@ body{
         min-width: 270px;
     }
     .register-container{
-        width: 85%;
+        width: 80%;
         height: 85%;
         padding: 0 2rem;
     }
@@ -710,7 +710,7 @@ body{
         margin-top: 3rem;
     }
     .register-container{
-        width: 85%;
+        width: 70%;
         height: 85%;
         padding: 0 2rem;
     }
@@ -720,7 +720,7 @@ body{
         font-size: 2rem;
     }
     .login-container{
-        max-width: 70%;
+        max-width: 75%;
         height: 60%;
     }
     .log{
@@ -763,7 +763,7 @@ body{
         min-width: 270px;
     }
     .register-container{
-        width: 85%;
+        width: 75%;
         height: 70%;
         
         padding: 0 2rem;
@@ -844,6 +844,9 @@ body{
         padding: 0 50px;
         margin-bottom: 1rem;
     }
+    .register-container{
+        width: 60%;
+    }
 }
 @media screen and (min-width:1000px) {
     .login-container{
@@ -888,7 +891,7 @@ body{
         width: 50px;
     }
     .register-container{
-        width: 50%;
+        width: 60%;
         padding: 0 2rem;
     }
     .footer{
@@ -956,7 +959,7 @@ body{
         min-width: 400px;
     }
     .register-container{
-        width: 50%;
+        width: 55%;
         height: 70%;
         padding: 0 2rem;
     }
@@ -1083,6 +1086,7 @@ body{
 
 @media screen and (min-width:1900px) {
     .register-container{
+        width: 35%;
         height: 76%;
     }
 }
